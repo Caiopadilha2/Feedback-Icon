@@ -7,6 +7,11 @@ Esta aplicação é um ícone de Feedback que a pessoa usuária poderá utilizar
 
 Esta aplicação é um dos diversos projetos realizados pela [RocketSeat](https://www.rocketseat.com.br/) de forma gratuita. Todo a aplicação foi exposta em 5 vídeo aulas e eu as repliquei por fins didáticos, e não promocionais.
 
+# Acesse minha aplicação em funcionamento
+
+
+https://feedback-widget.surge.sh/
+
 
 ## Rodando localmente
 
